@@ -1,4 +1,4 @@
 add
-remote to editing 
+remote to editing -> edit agin 
 edited in local
 third edit
