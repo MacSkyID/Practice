@@ -2,4 +2,8 @@ add
 remote to editing 
 edited in local
 third edit
+<<<<<<< HEAD
 local
+=======
+remote
+>>>>>>> 78b9cfbd59e5ba715d045022a3aa5abc62320960
