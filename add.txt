@@ -2,3 +2,4 @@ add
 remote to editing 
 edited in local
 third edit
+local
